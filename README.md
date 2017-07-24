@@ -2,4 +2,5 @@
 
 ### Installation
 1. `yarn`
-2. `yarn compile`
+2. `yarn start`
+3. `yarn compile`
