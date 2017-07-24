@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Minh Chau <xiu.chau@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "compile": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
